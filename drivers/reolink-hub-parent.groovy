@@ -1,5 +1,5 @@
 /**
- * Reolink Hub Parent (V76 - full)
+ * Reolink Hub Parent (V76)
  */
 
 metadata {
